@@ -1,0 +1,37 @@
+[
+  {
+    "id": "1",
+    "name": "John Doe",
+    "role": "Admin",
+    "gender": "Male",
+    "nationality": "USA"
+  },
+  {
+    "id": "2",
+    "name": "Jane Smith",
+    "role": "User",
+    "gender": "Female",
+    "nationality": "Canada"
+  },
+  {
+    "id": "3",
+    "name": "Linh Nguyen",
+    "role": "User",
+    "gender": "Female",
+    "nationality": "Vietnam"
+  },
+  {
+    "id": "4",
+    "name": "David Brown",
+    "role": "Moderator",
+    "gender": "Male",
+    "nationality": "UK"
+  },
+  {
+    "id": "5",
+    "name": "Phan Van Linh",
+    "role": " Intern",
+    "gender": " Male",
+    "nationality": " Viet Nam"
+  }
+]
